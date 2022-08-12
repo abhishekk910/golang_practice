@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	// "strings"
+	"strings"
 )
 
 // Golang program to check a string contains a specified substring
